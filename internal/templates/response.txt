@@ -1,0 +1,7 @@
+Route: {{.Route}}
+Request Method: {{.Method}}
+Request Headers:
+{{range $key, $value := .Headers}}
+- {{$key}}: {{$value}}
+{{end}}
+Origin IP: {{.OriginIP}}
