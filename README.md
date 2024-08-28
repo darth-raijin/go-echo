@@ -63,5 +63,3 @@ Request Headers:
 
 Origin IP: [::1]:53898
 ```
-
-Happy debugging! 🎉
